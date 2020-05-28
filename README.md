@@ -1,15 +1,19 @@
 # CCA175-Exam-Preparation
 
-Recently i cleared my CCA175 Soark and Hadoop Developer Certification. I had a good time going through the learning journey to passing the exam.
+Recently i cleared my CCA175 Spark and Hadoop Developer Certification. I had a good time going through the learning journey to passing the exam.
 
 Required Skills
+
 Transform, Stage, and Store
 Convert a set of data values in a given format stored in HDFS into new data values or a new data format and write them into HDFS.
 •	Load data from HDFS for use in Spark applications
 •	Write the results back into HDFS using Spark
 •	Read and write files in a variety of file formats
 •	Perform standard extract, transform, load (ETL) processes on data using the Spark API
+
+
 Data Analysis
+
 Use Spark SQL to interact with the metastore programmatically in your applications. Generate reports by using queries against loaded data.
 •	Use metastore tables as an input source or an output sink for Spark applications
 •	Understand the fundamentals of querying datasets in Spark
@@ -32,6 +36,7 @@ Here are some areas the exam excepts you to have skills
 11. Knowledge of coalesce
 
 Exam Format
+
 Exam is 2 hours long
-Exam has 9 - 12 questions based on spark datamframes/dataset (There is not much difference in the latest2.4 Spark onwards)
+Exam has 8 - 12 questions based on spark datamframes/dataset (There is not much difference in the latest2.4 Spark onwards)
 You are given a problem to read data with path provided and you need to read data, perform some operations and write output to hdfs/hive as mentioned in the latest exam format.
