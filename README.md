@@ -38,5 +38,5 @@ Here are some areas the exam excepts you to have skills
 Exam Format
 
 Exam is 2 hours long
-Exam has 8 - 12 questions based on spark datamframes/dataset (There is not much difference in the latest2.4 Spark onwards)
+Exam has 8 - 12 questions based on spark datamframes/dataset (There is not much difference in the latest 2.4 Spark onwards)
 You are given a problem to read data with path provided and you need to read data, perform some operations and write output to hdfs/hive as mentioned in the latest exam format.
