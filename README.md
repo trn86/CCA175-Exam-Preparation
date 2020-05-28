@@ -22,7 +22,7 @@ Use Spark SQL to interact with the metastore programmatically in your applicatio
 •	Join disparate datasets using Spark
 •	Produce ranked or sorted data
 
-Here are some areas the exam excepts you to have skills
+Here are some areas the exam excepts you to have skills i feel is good to have to clear the exam
 1. Comfortable on hadoop and linux commands
 2. Your ability to read, process and write data with Apache Spark 2.0+.
 3. Ability to read data from various sources like csv,text file,json,avro,parquet,database and hive,etc.
@@ -34,6 +34,7 @@ Here are some areas the exam excepts you to have skills
 9. Performing analytical function using Window functions like dense rank,rank,ntile,etc.
 10. Ability to perform operations using hive and spark or hdfs and spark,etc.
 11. Knowledge of coalesce
+12. You ability to write code with dataframes as well as spark sql.
 
 Exam Format
 
