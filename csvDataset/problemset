@@ -1,0 +1,12 @@
+The dataset contains fields like employee_id,employee_fname,employee_lname,department,age,salary
+
+Problems
+
+1. Find the count of employees in finance department (output display department and employee_count)
+2. Find the employees whose salary is greater than 18000 (output display first name,last name,salary and department)
+3. Show/Dispaly all employees belonging to each department showing count (output display department and employee_count)
+4. Read csv with employee_id as integer ,employee_fname as string ,employee_lname as string,department as string ,age as integer and salary as float/double
+4. Write the records in the parquet file,using seprator by tab
+5. Write the records in the avro file,using seprator by ''
+6. Write the records in the json file,using seprator by |
+7. Write code in both dataframe as well in spark sql
